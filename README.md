@@ -19,6 +19,6 @@ Equipe:
 Links do projeto:
 -   [Documentação (esse documento)](https://docs.google.com/document/d/1wVwGY__-Bh8ORFWZMNKu5ZyBMM1BpB_77pQRiiRETPE/edit?tab=t.0#heading=h.cyi47vu9mufy)
 -   [Documentação regras de negocio e MER] (https://docs.google.com/document/d/1Gel1u62vUV7zWEsM-Gop26OFvwIG90sk-7Iy9_lLn-E/edit?usp=sharing)
--   Backend: [Repositório](https://github.com/LucasdDeSouza/PL-Backend.git) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](https://github.com/LucasdDeSouza/PL-Frontend.git) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/LucasdDeSouza/BackEnd-PL.git) e [Publicação](https://backend-pl-2b7q.onrender.com)
+-   Frontend: [Repositório](https://github.com/917rafael/Primeiro.lar-Front.git) e [Publicação](https://primeiro-lar-front-9qjy.vercel.app/)
 
