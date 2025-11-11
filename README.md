@@ -14,11 +14,10 @@ Equipe:
 - [Rafael Pilger](github.com/917rafael)
 - [Enrique Cardoso](github.com/EnriqueCardoso)
 - [Matheus Liesenberg](github.com/matheusliesenberg)
-- [João Dums](github.com/JoaoDums)
 
 Links do projeto:
 -   [Documentação (esse documento)](https://docs.google.com/document/d/1wVwGY__-Bh8ORFWZMNKu5ZyBMM1BpB_77pQRiiRETPE/edit?tab=t.0#heading=h.cyi47vu9mufy)
 -   [Documentação regras de negocio e MER] (https://docs.google.com/document/d/1Gel1u62vUV7zWEsM-Gop26OFvwIG90sk-7Iy9_lLn-E/edit?usp=sharing)
 -   Backend: [Repositório](https://github.com/LucasdDeSouza/BackEnd-PL.git) e [Publicação](https://backend-pl-2b7q.onrender.com)
--   Frontend: [Repositório](https://github.com/917rafael/front-primeiro.lar-2) e [Publicação](https://primeiro-lar-front-9qjy.vercel.app/)
+-   Frontend: [Repositório](https://github.com/917rafael/front-primeiro.lar-2) e [Publicação](https://front-primeiro-lar-2.vercel.app/)
 
